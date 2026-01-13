@@ -2,10 +2,9 @@
 
 > **Advanced F5 Steganography with AES-256 Encryption**  
 > *Hide data in plain sight with military-grade security*
-
-![Demo](demo.gif)
-
 <div align="center">
+  
+![Demo](https://raw.githubusercontent.com/Phon3x/phon3x-art/main/phon3x-art/assets/demo.gif)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-AGPL%203.0-red.svg)](LICENSE)
@@ -28,19 +27,19 @@ Originally developed for **personal use**, it enables:
 ---
 ## Table of Contents
 
-- [🚀 Overview](#overview)
-- [🔥 Key Advantages](#key-advantages)
-- [✨ Features](#features)
-- [🎯 Why Phon3x-ART?](#why-phon3x-art)
-- [🌐 Platform Bypass Capabilities](#platform-bypass-capabilities)
-- [📊 Performance Metrics](#performance-metrics)
-- [📦 Installation](#installation)
+- [🚀 Overview](#-overview)
+- [🔥 Key Advantages](#-key-advantages)
+- [✨ Features](#-features)
+- [🎯 Why Phon3x-ART?](#-why-phon3x-art)
+- [🌐 Platform Bypass Capabilities](#-platform-bypass-capabilities)
+- [📊 Performance Metrics](#-performance-metrics)
+- [📦 Installation](#-installation)
   - [⚡Quick Installation (Kali/Ubuntu/Unix)](#-quick-installation)
   - [🔧 Manual Installation](#-manual-installation)
   - [🗑️ Uninstall](#-uninstall)
-- [🏗️ Technical Architecture](#technical-architecture)
-- [🚨 Legal & Ethical Use](#legal-ethical-use)
-- [⭐ Support](#support)
+- [🏗️ Technical Architecture](#-technical-architecture)
+- [🚨 Legal & Ethical Use](#-legal-ethical-use)
+- [⭐ Support](#-support)
 
 ---
 ## 🔥 **Key Advantages**
