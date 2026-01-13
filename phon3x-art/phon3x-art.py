@@ -460,7 +460,7 @@ def print_banner():
     """Print the Phon3x-ART banner."""
     print("""
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║									                                                             ║
+║									                                           ║
 ║                   Phon3x-ART: Professional Steganography Tool                ║
 ║                 Created by Phon3x [ https://github.com/Phon3x/ ]             ║
 ║                                                                              ║
