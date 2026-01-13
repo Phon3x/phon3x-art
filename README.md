@@ -1,4 +1,4 @@
-# 🎨 Phon3x-ART: Professional Steganography Tool
+# Phon3x-ART: Professional Steganography Tool
 
 > **Advanced F5 Steganography with AES-256 Encryption**  
 > *Hide data in plain sight with military-grade security*
