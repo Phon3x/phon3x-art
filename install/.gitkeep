@@ -1,0 +1,6 @@
+Phon3x-ART Installers Directory
+================================
+
+INSTALLATION SCRIPTS:
+├── install_phon3x-art.sh    - Main installation script
+└── uninstall_phon3x-art.sh  - Clean removal script
