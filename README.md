@@ -111,7 +111,7 @@ For the fastest setup, use our one-line installer:
 
 ```bash
 # One-command installation (Kali/Ubuntu)
-curl -sSL https://raw.githubusercontent.com/Phon3x/Phon3x-ART/main/install/install_phon3x-art.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/Phon3x/Phon3x-ART/main/install/install_phon3x-art.sh | bash
 ```
 
 Or download and run manually:
