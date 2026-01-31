@@ -61,7 +61,7 @@ Originally developed for **personal use**, it enables:
 | **🎲 Password-Based** | Unique embedding for each password | Plausible deniability |
 | **📈 Variable Payload** | Hide text or files up to image capacity | Flexible usage |
 | **🔍 Auto-Detection** | Smart extraction without additional parameters | User-friendly operation |
-| **🌐 Cross-Platform** | Works on Kali Linux, Ubuntu, and other Linux distros | Wide compatibility |
+| **🌐 Cross-Platform** | Works on Kali Linux, Ubuntu, Fedora and other Linux distros | Wide compatibility |
 
 ---
 ## 🎯 **Why Phon3x-ART**
@@ -112,6 +112,11 @@ For the fastest setup, use our one-line installer:
 ```bash
 # One-command installation (Kali/Ubuntu)
 curl -sSL https://raw.githubusercontent.com/Phon3x/Phon3x-ART/main/install/install_phon3x-art.sh | bash
+```
+
+```bash
+# One-command installation (Fedora)
+curl -sSL https://raw.githubusercontent.com/Phon3x/Phon3x-ART/main/install/install_Fedora_phon3x-art.sh | bash
 ```
 
 Or download and run manually:
